@@ -1,6 +1,6 @@
 # Buuza - Omukutu gw'okubuuza ebibuuzo ebikwatako ku ebintu ebiri mu Yuganda.
 <small><a>README.md</a></small>
 
-Buuza eli mukutu gw'okubuuza ebibuuzo ebikwatako ku nsi ya Yuganda.
+Buuza gwe mukutu ogukuyambako okuddamu ekibuuzo kyolina nga kikwata ku nsi ya Yuganda.
 Enkya twagala eyambe ne baganda baffe mu ssemazinga ya Afurika yonna, ne
-bweru.
+bweru waayo okusobola okufuna okuddibwamu kw'ebibuuzo byabwe mu lurimi Oluganda. 
